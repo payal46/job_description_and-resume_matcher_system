@@ -1,9 +1,4 @@
-# import os
-#
-# # Move up one directory to get to the project root
-# os.chdir('..')
-#
-# print(os.getcwd())  # This should now print the root of your project
+
 from flask import Flask, request, render_template
 import os
 import docx2txt
