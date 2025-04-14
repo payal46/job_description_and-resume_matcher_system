@@ -12,8 +12,8 @@ The Job Description and Resume Matcher System is an intelligent tool designed to
 * Backend Framework: Flask (Python)
 * Natural Language Processing: Scikit-learn (TF-IDF, Cosine Similarity)
 * File Parsing: PyPDF2 for PDFs, docx2txt for DOCX files
-* Frontend: HTML (with Jinja2 templating)
-* Deployment: Flask’s built-in development server
+* Frontend: HTML
+  
 
 ## How It Works
 1. Upload Resumes: Users can upload multiple resumes in supported formats.
